@@ -1,0 +1,22 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+ul {
+  border: 2px dotted blue;
+  width: 450px;
+  border-radius: 30px;
+}
+
+li {
+  padding: 5px;
+}
+
+p {
+  width: 450px;
+}
